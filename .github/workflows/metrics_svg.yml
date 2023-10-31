@@ -36,4 +36,4 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_music: yes
           plugin_music_limit: 10
-          plugin_music_playlist: https://open.spotify.com/playlist/30qTTMp7hhDraRlex98hLX?si=78c02cb2c3ab44b0
+          plugin_music_playlist: https://open.spotify.com/embed/playlist/30qTTMp7hhDraRlex98hLX
